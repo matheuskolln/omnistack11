@@ -2,7 +2,11 @@
 <img src="https://user-images.githubusercontent.com/50464577/77352542-1bbc6780-6d1e-11ea-9f5c-8203be225fe8.jpg" title="Omnistack11">
 
 <h1 align="center"> Be The Hero <h1>
-<p align="center" > O Objetivo principal desta API é que ONGS possam criar seus casos pelo sistema WEB, já no aplicativo mobile voluntários podem ver os casos e entrar em contato com as ONGS para ajudarem nos casos <p>
+<p> Supondo que uma ONG de animais de estimação crie uma conta no aplicativo, esta poderá criar seus casos. Mas o que seriam estes? São casos que necessitam de ajuda monetária de voluntários.</p>
+<p> A ONG então realiza o cadastro pela página da web, e ao realizar o cadastro recebe um ID, este é usado para fazer logon na web, feito isso a ONG já pode criar seus casos.</p>
+<p> No painel da página web, a ONG pode somente ver os casos cadastrados por ela, além da possibilidade de deletar os mesmos.</p>
+<p> Já o APP mobile, visa ser utilizado por voluntários que demonstrem interesse em ajudar nos casos. Pelo APP todos os casos são mostrados, e ao detalhar o caso existe opções de contato como WhatsApp e E-mail, que redirecionam diretamente para o mesmo.</p>
+
 
 <h1 align="center"> Front End </h1>
 <p align="center"> Desenvolvido em React </p>
